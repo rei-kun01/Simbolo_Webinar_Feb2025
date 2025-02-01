@@ -1,12 +1,8 @@
 # Understanding Transformer Architecture
 
-In this repository, there will be two files: colab notebook and the slides pdf.
-The slide is a deck that I used during webinar session.
-It includes explanation on Transformer Architecture and the links.
-The notebook is used for the demonstration.
+This repository contains two files: a Colab notebook and a PDF of the slides. The slide deck was used during a webinar and provides an explanation of Transformer Architecture along with some useful links. The notebook serves as a demonstration tool.
 
-I hope this session is helpful to you!
-Please do not forget to give reference or starts if this made you see the insights!
+I hope you find this session helpful! If you do, please remember to reference or star the project.
 
-Bests,\
+Best regards,\
 Rei
